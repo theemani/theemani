@@ -1,5 +1,4 @@
 # Manuel Oni
-## Part 2 - Practical Task 2
 - 🔭 I’m currently working on a Software Engineering Diploma
 - 🌱 I’m currently learning Python and working wiht GitHub
 <!--
