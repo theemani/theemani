@@ -1,6 +1,6 @@
 # Manuel Oni
 ## Part 2 - Practical Task 2
-- 🔭 I’m currently working on Software Engineering Diploma
+- 🔭 I’m currently working on a Software Engineering Diploma
 - 🌱 I’m currently learning Python and working wiht GitHub
 <!--
 **theemani/theemani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
