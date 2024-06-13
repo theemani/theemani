@@ -1,5 +1,3 @@
-<!--
-**theemani/theemani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Manuel Oni
 
 ## 🌟 About Me
@@ -39,7 +37,9 @@ I've recently completed a project as part of my bootcamp which you can find in m
 
 ## 🤝 Let's Connect
 - 💬 Ask me about anything related to Python, web development, or software engineering fundamentals.
-- 📫 How to reach me: [[Email](manuel.oni@outlook.com)] | [[LinkedIn Profile]([url](https://www.linkedin.com/in/manuel-oni-35485520a/))]
+- 📫 How to reach me: [Email](manuel.oni@outlook.com) | [LinkedIn Profile](https://www.linkedin.com/in/manuel-oni-35485520a/)
 
 ## 🌐 Fun Fact
 I'm passionate about using technology to solve real-world problems and love to stay updated with the latest tech trends.
+<!--
+**theemani/theemani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
