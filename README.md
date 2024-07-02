@@ -1,7 +1,7 @@
 # Manuel Oni
 
 ## 🌟 About Me
-I'm currently pursuing a Software Engineering Diploma and have recently completed an intensive 16-week bootcamp focused on Software Engineering Fundamentals. My journey into the world of coding has been thrilling, and I'm excited to continue developing my skills and contributing to impactful projects.
+I have recently completed an intensive 16-week bootcamp focused on Software Engineering Fundamentals. My journey into the world of coding has been thrilling, and I'm excited to continue developing my skills and contributing to impactful projects.
 
 ## 🛠 Skills & Technologies
 - **Programming Languages**: Python
